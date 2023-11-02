@@ -19,7 +19,8 @@ const VideoInfoSchema = Schema({
     video: {
         cover: String,
         embed: String
-    }
+    },
+    favorite: Boolean
 })
 
 module.exports = model('VideoInfo', VideoInfoSchema)
