@@ -19,7 +19,7 @@ npm install
 ```
 
 ## Use
-1. Add the enviroment variables to a .env file. The example is in the file .env.example. Reeplace <<YOURPASSWORD>> for the password provided for the DB admin. Reeplace <<YOURAPIKEY>> with your ApiKey provided for TikApi.
+1. Add the enviroment variables to a .env file. The example is in the file .env.example. Reeplace <YOURPASSWORD> for the password provided for the DB admin. Reeplace <YOURAPIKEY> with your ApiKey provided for TikApi.
 
 2. Run `npm start` for start the server.
 ```
